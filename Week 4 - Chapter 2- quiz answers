@@ -1,0 +1,50 @@
+Week 4
+Chapter 2
+Quiz answers:-
+
+
+1.) In the following code, print 98.6. What is “98.6”?
+
+answer-  A constant
+
+
+In the following code, x = 42. What is “x”?
+A variable
+
+
+Which of the following variables is the “most mnemonic”?
+hours
+
+
+Which of the following is not a Python reserved word?
+speed
+
+
+Assume the variable x has been initialized to an integer value (e.g., x = 3). What does the following statement do? x = x + 2
+Retrieve the current value for x, add two to it and put the sum back into x
+
+
+Which of the following elements of a mathematical expression in Python is evaluated first?
+–Parenthesis()
+
+What is the value of the following expression
+2
+
+What will be the value of x after the following statement executes: x = 1 + 2 * 3 – 8 / 4
+5
+
+
+What will be the value of x when the following statement is executed: x = int(98.6)
+98
+
+
+What does the Python raw_input() function do?
+Pause the program and read data from the user
+
+
+// if you score 100% ..please rate this repository file
+
+Studying can feel like an enormous challenge, especially when tests and exams are looming. I will help you to find studying easier than perhaps it has been to this point.
+for any other query/help:-
+contact- ritikdagr0203@gmail.com
+
