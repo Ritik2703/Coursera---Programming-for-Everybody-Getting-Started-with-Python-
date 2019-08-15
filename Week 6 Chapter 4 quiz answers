@@ -1,0 +1,40 @@
+
+
+1. Which Python keyword indicates the start of a function definition?
+ans-  def
+
+
+2. In Python, how do you indicate the end of the block of code that makes up the function?
+ans-  You de-indent a line of code to the same indent level as the def keyword
+
+
+3.  In Python what is the raw_input() feature best described as?
+ans-  A built-in function
+
+
+4.  What does the following code print out? def thing(): print 'Hello'; print 'There'
+ans- There
+
+
+5. In the following Python code, which of the following is an "argument" to a function? x = 'banana'; y = max(x); print y
+ans- x
+
+
+6.  What will the following Python code print out? def func(x) : print x; func(10); func(20)
+ans-  10, 20
+
+
+7.  Which line of the following Python program is useless? def stuff(): print 'Hello' return print 'World' stuff()
+ans-  print 'World'
+
+
+8. -What will the following Python program print out? def greet(lang): if lang == 'es': return 'Hola' elif lang == 'fr': return 'Bonjour' else: return 'Hello' print greet('fr'),'Michael'
+ans-  Bonjour Michael
+
+
+9.  What does the following Python code print out? (Note that this is a bit of a trick question and the code has what many would consider to be a flaw/bug - so read carefully). def addtwo(a, b): added = a + b return a; x = addtwo(2, 7); print x
+ans-  2
+
+
+10.  What is the most important benefit of writing your own functions?
+ans-  Avoiding writing the same non-trivial code more than once in your program
