@@ -6,7 +6,7 @@ ans  Indent the line below the if statement
 
 
 2  Which of these operators is not a comparison / logical operator?
-ans=
+ans  =
 
 
 3  What is true about the following code segment: if x == 5 : print ‘Is 5’ print ‘Is Still 5’ print ‘Third 5’
