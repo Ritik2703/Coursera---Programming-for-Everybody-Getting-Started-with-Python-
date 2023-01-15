@@ -14,14 +14,17 @@ Do not name your variable sum or use the sum() function.
  
  ******************************************
 
-def computepay(h,r):
-    if h>40:
-        rate1 = (r*1.5)*(h-40)
-    return ((h-5)*r)+rate1
-hrs = float(raw_input("Enter Hours:"))
-rate = float(raw_input("Enter Rate:"))
+def computepay(hours, rate):
+    if hours <= 40:
+        pay = hours * rate
+    else:
+        pay = (40 * rate) + ((hours - 40) * (rate * 1.5))
+    return pay
+
+hrs = float(input("Enter hours: "))
+rate = float(input("Enter rate per hour: "))
 p = computepay(hrs,rate)
-print (p)
+print("Pay", p)
 
 ****************************************
 Your Output
